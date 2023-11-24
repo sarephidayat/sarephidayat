@@ -3,9 +3,9 @@
 - 🌱 Student at Universitas Islam Negeri Walisongo Semarang
 - 💞️ I'm currently seeking collaboration opportunities, whether it's joining a project
 - 📫 You can reach me through the following channels:
--    email : hidayatsyarifudin903@gmail.com
--    linkedin : Muhammad Syarifudin Hidayat
--    instagram : @sarephudayatt_
+-    email     : hidayatsyarifudin903@gmail.com
+-    linkedin  : Muhammad Syarifudin Hidayat
+-    instagram : @sarephidayatt_
 -    WhatsApp. : +6289-52968-4820
 
 <!---
