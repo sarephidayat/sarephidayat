@@ -1,14 +1,10 @@
-- 👋 Hi, I’m Muhammad Syarifudin Hidayat 
-- 👀 I'm a front end developer 
-- 🌱 Student at Universitas Islam Negeri Walisongo Semarang
-- 💞️ I'm currently seeking collaboration opportunities, whether it's joining a project
-- 📫 You can reach me through the following channels:
--    email     : hidayatsyarifudin903@gmail.com
--    linkedin  : Muhammad Syarifudin Hidayat
--    instagram : @sarephidayatt_
--    WhatsApp. : +6289-52968-4820
+👋 Hi, I’m Muhammad Syarifudin Hidayat, currently learning programming and a student at Universitas Islam Negeri Walisongo Semarang. I'm eager to delve deeper into the world of programming and explore various opportunities in the field.
 
-<!---
-sarephidayat/sarephidayat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm actively seeking collaboration opportunities to gain practical experience and contribute to meaningful projects.
+
+💼 Let's connect and collaborate:
+
+📧 Email: hidayatsyarifudin903@gmail.com
+💼 LinkedIn: Muhammad Syarifudin Hidayat
+📸 Instagram: @sarephidayatt_
+📱 WhatsApp: +6289529684820
