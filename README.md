@@ -3,8 +3,7 @@
 🌱 I'm actively seeking collaboration opportunities to gain practical experience and contribute to meaningful projects.
 
 💼 Let's connect and collaborate:
-
-📧 Email: hidayatsyarifudin903@gmail.com
-💼 LinkedIn: Muhammad Syarifudin Hidayat
-📸 Instagram: @sarephidayatt_
-📱 WhatsApp: +6289529684820
+- 📧 Email: hidayatsyarifudin903@gmail.com
+- 💼 LinkedIn: Muhammad Syarifudin Hidayat
+- 📸 Instagram: @sarephidayatt_
+- 📱 WhatsApp: +6289529684820
