@@ -1,6 +1,6 @@
 ## Hello I'm Muhammad Syarifudin Hidayat 👋👋
 
-![Muhammad Syarifudin Hidayat](github-header-banner)
+![Muhammad Syarifudin Hidayat](github-header-banner.png)
 
 ##### My Skill
 
