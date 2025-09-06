@@ -59,6 +59,9 @@ Currently, I'm focusing on learning **Fullstack Development** and exploring oppo
   <a href="https://instagram.com/sarephidayatt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/sarephidayat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/muhammad-syarifudin-hidayat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="wa.me/6289529684820"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="hidayatsyarifudin903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
 
 📧 **Email:** hidayatsyarifudin903@gmail.com  
