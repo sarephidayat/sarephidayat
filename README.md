@@ -63,10 +63,3 @@ Currently, I'm focusing on learning **Fullstack Development** and exploring oppo
   <a href="hidayatsyarifudin903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </p>
-
-📧 **Email:** hidayatsyarifudin903@gmail.com  
-📱 **WhatsApp:** +62 895-2968-4820
-
----
-
-✨ _“Keep learning, keep growing, and keep building something meaningful.”_ ✨
